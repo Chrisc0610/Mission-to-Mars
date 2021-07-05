@@ -15,4 +15,5 @@
 	* Third hit the "Scrape New Data" button to run the scraper. The outcome will be similar to the image below: 
 		* ![fullpage.PNG](images/fullpage.PNG)
 	* Finally if we want to run it again simply click the button and the next recent article will be outputed.
+		* * ![fullpage2.PNG](images/fullpage2.PNG) 
 	
