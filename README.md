@@ -9,7 +9,7 @@
 
 ## Summary
 - The results can be accessed by running the script below.
-	* First run the "app.py" this is create an instance of Flask along with MongoDB, which is where our data will be stored and pulled when we run the scrapper.
+	* First run the "app.py" under our "mars_scrapping" folder this is create an instance of Flask along with MongoDB, which is where our data will be stored and pulled when we run the scrapper.
 	* Second open the "html" file unde the templates folder. This will open a blank webpage like so:
 		* ![blankpage.PNG](images/blankpage.PNG)
 	* Third hit the "Scrape New Data" button to run the scraper. The outcome will be similar to the image below: 
